@@ -1,0 +1,1 @@
+nova sn68 upload selftest 20261120134007
